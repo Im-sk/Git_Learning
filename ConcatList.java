@@ -21,9 +21,6 @@ public class ConcatList {
 		l2.add(6);
 		l2.add(7);
 		l2.add(8);
-		l2.add(8);
-		l2.add(8);
-		l2.add(8);
 		
 		List<Integer> l3 =  new ArrayList<>();
 		
